@@ -4,21 +4,21 @@
 
 <b>Features</b>
 
-List item
-Multiple Gamemodes
-Multiple Zones
-Real Working Chart
-Player Ranking/Leaderboard (Kills, Deaths, KD)
+List item<p>
+Multiple Gamemodes<p>
+Multiple Zones<p>
+Real Working Chart<p>
+Player Ranking/Leaderboard (Kills, Deaths, KD)<p>
 
 
 <b>Player Options</b>
 
-Changeable Profile Picture (Gif, Png, Jpeg)
-Changeable username
-Notifications
-Anonym mode
-Hud
-Nametags
+Changeable Profile Picture (Gif, Png, Jpeg)<p>
+Changeable username<p>
+Notifications<p>
+Anonym mode<p>
+Hud<p>
+Nametags<p>
 Crosshair
 Crosshair Type
 Crosshair Color
