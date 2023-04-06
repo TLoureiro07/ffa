@@ -1,15 +1,17 @@
 # ffa
-FFA for FiveM
+<h1>FFA for FiveM</h1>
 
 
-<b>Features
+<b>Features</b>
 
 List item
 Multiple Gamemodes
 Multiple Zones
 Real Working Chart
 Player Ranking/Leaderboard (Kills, Deaths, KD)
-Player Options
+
+
+<b>Player Options</b>
 
 Changeable Profile Picture (Gif, Png, Jpeg)
 Changeable username
@@ -21,7 +23,9 @@ Crosshair
 Crosshair Type
 Crosshair Color
 Hitmarker
-Config
+
+
+<b>Config</b>
 
 Respawn Screen
 Out Zone Screen
